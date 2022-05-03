@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Bookie</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="email">E-mail address</string>
+    <string name="registerTitle">Register an account</string>
+    <string name="confirmReg">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="phonenumber">Phone number</string>
+    <string name="address">Address</string>
+    <string name="customerRadioButton">Customer</string>
+    <string name="partnerRadioButton">Partner</string>
+    <string name="product_description">Product description</string>
+    <string name="loginGoogle">Log in with Google</string>
+    <string name="loginGuest">Log in as a guest</string>
+    <string name="main_title">Welcome to Bookie</string>
+    <string name="item_placeholder">itemtitle</string>
+    <string name="item_info_placeholder">subtitle</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="log_out">Log out</string>
+    <string name="settings">Settings</string>
+    <string-array name="book_names">
+        <item>Black book</item>
+        <item>Blue book</item>
+        <item>Brown book</item>
+        <item>Orange book</item>
+        <item>Red book</item>
+    </string-array>
+    <string-array name="book_descs">
+        <item>This is a very black book!</item>
+        <item>This is a very blue book!</item>
+        <item>This is a very brown book!</item>
+        <item>This is a very orange book!</item>
+        <item>This is a very red book!</item>
+    </string-array>
+    <array name="book_images">
+        <item>@drawable/blackbook</item>
+        <item>@drawable/bluebook</item>
+        <item>@drawable/brownbook</item>
+        <item>@drawable/orangebook</item>
+        <item>@drawable/redbook</item>
+    </array>
+    <array name="book_prices">
+        <item>666 mora</item>
+        <item>555 mora</item>
+        <item>150 mora</item>
+        <item>450 mora</item>
+        <item>1111 mora</item>
+    </array>
+</resources>
