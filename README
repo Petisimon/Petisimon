@@ -7,3 +7,9 @@ az apk fájl itt van fenn ebben a repoban
 update: mikor feltöltöttem a projektet somehow elromlott a könyvek listázása, proof képet feltöltök firebaseről,
 hogy lássa a javító, hogy működött a könyvek listázása, also a könyveknél lenne az egyik animáció is,
 de mivel elromlott a listázás, nem látszik az az animáció.
+
+aminek kéne történnie: 5 darab könyv beúszik jobbról, mindet lehet addolni a kosárba és a kosár ikonnál megjelenik, hogy hány darab könyv van a kosarunkban.
+kódban ez a shoplistactivityben van, initializeData meg hasonló függvények hajtják végre a könyv csinálást, de valahogy szerintem nem tud csatlakozni a firebasemhez
+a projekt.
+
+bear with me please.
